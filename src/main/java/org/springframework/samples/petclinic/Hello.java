@@ -29,7 +29,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Hello {
 
 	public void hello() {
-		System.out.println("Good night!!"+new Date());	
+		System.out.println("Good night!!"+new Date()+" date");	
 	}
 
 }
